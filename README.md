@@ -1,12 +1,12 @@
-# Anti-Virtex
+# anti-virtex
 Membuat teks untuk menangkal virtex
 
 Cara membuat:
 - Buat teks panjang menggunakan editor teks (bebas) min 20 baris (sesuai kreativitas anda)
 
-[Contoh teks 1](https://github.com/O7zSO31IVg/Anti-Virtex/raw/main/Anti-Virtex/Acak.txt)
+[Contoh teks 1](https://github.com/O7zSO31IVg/anti-virtex/raw/main/anti-virtex/acak.txt)
 
-[Contoh teks 2](https://github.com/O7zSO31IVg/Anti-Virtex/raw/main/Anti-Virtex/Peringatan.txt)
+[Contoh teks 2](https://github.com/O7zSO31IVg/anti-virtex/raw/main/anti-virtex/peringatan.txt)
 
 Cara menggunakan:
 - Buka WhatsApp
