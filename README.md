@@ -1,4 +1,4 @@
-# anti-virtex
+# antivirtex
 Membuat teks untuk menangkal crash code (atau yang biasa disebut dengan virtex)
 
 Cara membuat:
