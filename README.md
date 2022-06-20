@@ -2,7 +2,7 @@
 Membuat teks untuk menangkal crash code (atau yang biasa disebut dengan virtex)
 
 Cara membuat:
-- Buat teks panjang yang melebihi panjang crash code menggunakan editor teks (bebas) min 16 baris (sesuai kreativitas anda). Untuk contoh teks, lihat [disini](https://github.com/5xGrDmDprV/anti-crash-code/raw/main/data/chatcrash.txt)
+- Buat teks panjang yang melebihi panjang crash code menggunakan editor teks (bebas) min 16 baris (sesuai kreativitas anda). Untuk contoh teks, lihat [disini](https://github.com/arfshl/anti-crash-code/raw/main/data/chatcrash.txt)
 
 Cara menggunakan:
 - Buka WhatsApp
